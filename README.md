@@ -55,7 +55,7 @@ This project demonstrates a **smart lighting system** using **Arduino Uno** (or 
 4. Copy the **Auth Token** (sent to your email).
 
 ---
-
+![Image](https://github.com/user-attachments/assets/f532a292-f639-424c-a128-2ee246998fd9)
 ## 💻 Arduino Code (`smart_light.ino`)
 
 ### ▶ For NodeMCU (WiFi-enabled)
