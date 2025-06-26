@@ -1,4 +1,13 @@
 # Smart Light Control using Arduino & Mobile App
+## 📋 Intern Details
+
+- **👨‍💼 Name:** Shaik Javed Ahmed  
+- **🎓 Intern ID:** CT04DF594  
+- **🏢 Company:** CodTech IT Solutions  
+- **🌐 Domain:** Internet of Things  
+- **📅 Internship Duration:** 4 Weeks  
+- **🧑‍🏫 Mentor:** Neela Santhosh  
+
 
 ## ✅ Description
 A simple IoT project that lets you control an LED using a mobile phone via Bluetooth and an Arduino Uno.
